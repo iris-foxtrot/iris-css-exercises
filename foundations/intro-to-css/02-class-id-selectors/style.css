@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd-text,
+.odder-text{
+    background-color: palevioletred;
+    font-family: "Veranda", "DejaVu Sans", sans-serif;
+}
+.odder-text{
+    font-size: 36px;
+}
+
+#two{
+    color: blue;
+    font-size: 36px;
+}
+
+#four{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
